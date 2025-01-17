@@ -73,5 +73,5 @@ This project involves the analysis of employee data using SQL. The dataset conta
 
 ## Repository Contents
 - **SQL Scripts**: Contains all the SQL queries used for analysis.
-- **Dataset**: Employee data in a CSV format (if applicable).
+- **Dataset**: Employee data in a CSV format.
 - **README**: Documentation of the project.
